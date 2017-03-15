@@ -4,6 +4,7 @@
   border-style: double;
   border-width: thick;
   margin: 10px;
+  padding: 7px;
 }
 
 .sidebar2{
@@ -11,10 +12,19 @@
   border-color:brown;
   float:left;
   margin: 10px;
+  padding: 5px;
 }
 
 .shows{
   float: right;
   background-color: #e2b279;
   padding: 100px 20px 700px 25px;
+  margin:1px;
+  border:5px;
+  border-color: green;
+  border-style: solid;
+}
+
+body{
+  padding: 15px;
 }
